@@ -23,5 +23,3 @@ Ademas de la programación me gusta mucho leer :books:, jugar videojuegos :space
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>  
 </p>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jc-projects&label=Vistas%20al%20perfil&color=ff9500&style=flat" alt="jc-projects" /> </p>
