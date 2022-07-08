@@ -1,8 +1,9 @@
 <h1 align="center">Hola, soy Joana :blush:</h1>
-<h3 align="center">Estudiante de programación Full Stack</h3>
+<h3 align="center">Estudiante de programación Full Stack 👩🏻‍💻</h3>
 <p align="center">
 Vivo en Buenos Aires, Argentina. Mi deseo es capacitarme lo suficiente para poder trabajar de lo que me apasiona.<br>
-Ademas de la programación me gusta mucho leer :books:, jugar videojuegos :space_invader: y ver pelis y series :tv:
+También soy community manager 📱 y estudio Lengua de Señas Argentina 👐<br>
+Me gusta mucho leer :books:, jugar videojuegos :space_invader: y ver pelis y series :tv:
 </p>
 
 <h3 align="left">Ahora estoy aprendiendo...</h3>
