@@ -1,8 +1,8 @@
-<h1 align="center">Hola, soy Joana :blush:</h1>
+<h1 align="center">Hola, soy Nana :blush:</h1>
 <h3 align="center">Estudiante de programación Full Stack 👩🏻‍💻</h3>
 <p align="center">
 Vivo en Buenos Aires, Argentina. Mi deseo es capacitarme lo suficiente para poder trabajar de lo que me apasiona.<br>
-También soy community manager 📱 y estudio Lengua de Señas Argentina 👐<br>
+También soy Community Manager 📱, estudio Lengua de Señas Argentina 👐 y Chino :red_circle: <br>
 Me gusta mucho leer :books:, jugar videojuegos :space_invader: y ver pelis y series :tv:
 </p>
 
