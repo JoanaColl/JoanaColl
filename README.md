@@ -3,7 +3,7 @@
 ### <div align="center">Estudiante de programacion FullStack 👩🏻‍💻</div> 
 
 <p align="center">
-También estudio Lengua de Señas Argentina :blue_heart:.<br>
+También estudio Lengua de Señas Argentina :blue_heart:<br>
 Me considero curiosa, autodidacta y responsable. Vivo en Buenos Aires, Argentina.<br>
 Mi deseo es capacitarme lo suficiente para poder trabajar de lo que me apasiona y a su vez seguir desarrollando mis habilidades 🤓
 </p>
