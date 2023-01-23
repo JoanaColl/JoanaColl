@@ -34,8 +34,7 @@ Mi deseo es capacitarme lo suficiente para poder trabajar de lo que me apasiona 
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-projects&hide_border=true&layout=compact" align="center" /></div>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-projects&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="center" /></div> 
 <br/>
 
 <div align="center">
