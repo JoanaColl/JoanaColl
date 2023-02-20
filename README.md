@@ -10,11 +10,14 @@ Mi deseo es capacitarme lo suficiente para poder trabajar de lo que me apasiona 
 
 <div align="center">
 <a href="https://github.com/joana-coll" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/github.svg" alt="Github" height="30" />
 </a>
-<a href="https://instagram.com/einenko" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<a href="https://ar.linkedin.com/in/joana-coll" target="_blank">
+<img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/linkedin.svg" alt="Github" height="30" />
+</a>
+<a href="mailto:colljoana@gmail.com" target="_blank">
+<img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/envelope-solid.svg" alt="Github" height="30" />
+</a>
 </div>
 
 ## Lenguajes y Herramientas
