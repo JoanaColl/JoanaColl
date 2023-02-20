@@ -1,6 +1,6 @@
 # <div align="center">¡Hola, soy Nana :blush:!</div>
 
-### <div align="center">Estudiante de programacion FullStack 👩🏻‍💻</div> 
+### <div align="center">Desarrolladora Fullstack orientada al Backend 👩🏻‍💻</div> 
 
 <p align="center">
 También estudio Lengua de Señas Argentina :blue_heart:<br>
@@ -9,7 +9,7 @@ Mi deseo es capacitarme lo suficiente para poder trabajar de lo que me apasiona 
 </p>
 
 <div align="center">
-<a href="https://github.com/jc-projects" target="_blank">
+<a href="https://github.com/joana-coll" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/einenko" target="_blank">
@@ -34,9 +34,9 @@ Mi deseo es capacitarme lo suficiente para poder trabajar de lo que me apasiona 
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-projects&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joana-coll&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="center" /></div> 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jc-projects&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=joana-coll&&style=flat-square" align="center" />
 </div>  
