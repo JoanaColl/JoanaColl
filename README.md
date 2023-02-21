@@ -3,9 +3,9 @@
 ### <div align="center">Desarrolladora Fullstack orientada al Backend 👩🏻‍💻</div> 
 
 <p align="center">
-También estudio Lengua de Señas Argentina :blue_heart:<br>
-Me considero curiosa, autodidacta y responsable. Vivo en Buenos Aires, Argentina.<br>
-Mi deseo es capacitarme lo suficiente para poder trabajar de lo que me apasiona y a su vez seguir desarrollando mis habilidades 🤓
+Me considero curiosa, autodidacta y responsable. Siempre estoy aprendiendo algo nuevo o reforzando los saberes ya adquiridos.<br>
+Soy Community Manager y además estudio Lengua de Señas Argentina 💙<br>
+Me apasiona poder transmitir a otros mis conocimientos mediante la enseñanza. Mi meta es lograr hacerlo de manera formal 🤓
 </p>
 
 <div align="center">
