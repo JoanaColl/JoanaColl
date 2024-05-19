@@ -8,8 +8,9 @@ Me apasiona poder transmitir a otros mis conocimientos mediante la enseñanza. M
 </p>
 
 <div align="center">
-<a href="mailto:colljoana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/colljoana-red?style=flat&logo=Gmail&logoColor=white&labelColor=red" alt="Gmail"></a>
-<a href="https://ar.linkedin.com/in/joana-coll" target="_blank"><img src="https://img.shields.io/badge/joanacoll-blue?style=flat&logo=Linkedin&logoColor=white&labelColor=blue" alt="Linkedin"></a>
+<a href="mailto:colljoana@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/colljoana-red?style=flat&logo=Gmail&logoColor=white&labelColor=red" alt="Gmail"></a>
+<a href="https://ar.linkedin.com/in/joanacoll" target="_blank"><img src="https://img.shields.io/badge/joanacoll-blue?style=flat&logo=Linkedin&logoColor=white&labelColor=blue" alt="Linkedin"></a>
 </div>
 
 ## Lenguajes y Herramientas
