@@ -33,7 +33,7 @@ Me apasiona poder transmitir a otros mis conocimientos mediante la enseñanza. M
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joana-coll&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanacoll&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="center" /></div> 
 <br/>
 
 <div align="center">
