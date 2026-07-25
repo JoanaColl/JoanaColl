@@ -2,8 +2,7 @@
 
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTY1dzNpZHRsMXU2OGlvbHprNDVjejBkN2lpMjZ3aTdiNzV3aHAzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="175" />
 
-<p>Soy curiosa, autodidacta y siempre estoy buscando nuevas oportunidades para aprender y crecer. <br>
-Actualmente estoy estudiando la Tecnicatura Superior en Desarrollo de Software en el <strong><a href="https://ifts29.com.ar/">IFTS 29</a></strong> y trabajo como desarrolladora backend Java en <strong><a href="https://itpatagonia.com/">IT Patagonia</a></strong>, colaborando en proyectos desafiantes para el banco <strong><a href="https://www.icbc.com.ar/">ICBC</a></strong> 💻 <br>
+<p>Soy Técnica Superior en Desarrollo de Software recibida en el <strong><a href="https://ifts29.com.ar/">IFTS 29</a></strong> y trabajo como desarrolladora backend Java en <strong><a href="https://itpatagonia.com/">IT Patagonia</a></strong>, colaborando en proyectos desafiantes para el banco <strong><a href="https://www.icbc.com.ar/">ICBC</a></strong> 💻 <br>
 Me esfuerzo por seguir mejorando mis habilidades y aportar lo mejor de mí en cada equipo en el que participo.</p>
 
 <div>
@@ -17,8 +16,9 @@ Me esfuerzo por seguir mejorando mis habilidades y aportar lo mejor de mí en ca
 <a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="25" height="25" /></a>  
 <a href="https://spring.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" width="25" height="25" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25" /></a> 
-<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="25" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="25" height="25" /></a>
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitlAB" width="30" height="30" /></a>
+<a href="https://www.elastic.co/kibana/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" width="25" height="25" /></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanacoll&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="center" />
 <p><img src="https://komarev.com/ghpvc/?username=joana-coll&&style=flat-square" align="center" /></p>
